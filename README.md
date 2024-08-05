@@ -1,5 +1,5 @@
 -  Hi, I’m @1413shreyas
--  I’m interested in Sotware Field
+-  I’m interested in Software Field
 -  I’m currently learning Javascript
 -  I’m looking to collaborate on software projects
 -  How to reach me shreyaslande14@gmail.com
